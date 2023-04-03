@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kumar.ameesha1@gmail.com
+	name = Ameesha Ramesh Kumar
